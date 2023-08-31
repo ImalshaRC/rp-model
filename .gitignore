@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+
+# Node.js runtime environment
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Debugging and profiling files
+*.dump
+*.map
+
+# Optional: ESLint cache
+.eslintcache
+
+# Optional: compiled output
+dist/
+build/
+
+# Optional: IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: macOS specific files
+.DS_Store
+
+# Optional: npm package lock file
+package-lock.json
+
+# Optional: yarn lock file
+yarn.lock
